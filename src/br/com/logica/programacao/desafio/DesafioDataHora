@@ -1,0 +1,13 @@
+Desafio DataHora.
+
+Vamos treinar o switch case nesse desafio.
+
+Crie um programa que dê ao usuário opções de escolher data e hora
+exibindo com formatações diferentes. Pegue como base o Exemplo da classe 'DataHora'.
+
+O intuito é você trabalhar com classes existente no java, como por exemplo,
+- LocalDate
+- DateFormat
+- LocalDateTime
+- LocalTime
+- Locale (Opcional)
